@@ -18,3 +18,6 @@ this is simple journal.
 * just created a folder "hello"
 * added a file "index.html"
 * having some trouble adding my code in terminal
+* my folder hello was not on my github so i was having problem
+* i got help from tony
+* used git init created a repository
