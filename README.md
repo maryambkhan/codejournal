@@ -17,3 +17,4 @@ this is simple journal.
 * forgot to save again ahhhh
 * just created a folder "hello"
 * added a file "index.html"
+* having some trouble adding my code in terminal
