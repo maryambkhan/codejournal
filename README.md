@@ -11,3 +11,4 @@ this is simple journal.
 * i thought it worked looks like im stuck
 * omg i dont know what to do
 * i forgot to save the file so git did not see any changes
+* yea i got it
