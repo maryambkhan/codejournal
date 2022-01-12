@@ -14,9 +14,12 @@ Goal: giving a theme
 * just looked up for some basic syntax to make my journal pretty.I am hoping i don't make any mistakes there.
 
 * forgot to save again ahhhh
-* just created a folder "hello"
-* added a file "index.html"
-* having some trouble adding my code in terminal
-* my folder hello was not on my github so i was having problem
-* i got help from tony
-* used git init created a repository
+
+Goal: working on webpage
+
+* Just created a folder "hello"
+* Added a file "index.html"
+* Having some trouble adding my code in terminal
+* My folder "hello" was not on my github so i was having problem
+* I got help from tony
+* Used git init created a repository
