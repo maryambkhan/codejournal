@@ -12,3 +12,6 @@ this is simple journal.
 * omg i dont know what to do
 * i forgot to save the file so git did not see any changes
 * yea i got it
+* just looked up for some basic syntax to make my journal pretty.
+* i am hoping i don't make any mistakes there
+* forgot to save again ahhhh
