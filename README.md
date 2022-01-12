@@ -15,3 +15,5 @@ this is simple journal.
 * just looked up for some basic syntax to make my journal pretty.
 * i am hoping i don't make any mistakes there
 * forgot to save again ahhhh
+* just created a folder "hello"
+* added a file "index.html"
