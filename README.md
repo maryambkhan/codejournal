@@ -23,3 +23,4 @@ Goal: working on webpage
 * My folder "hello" was not on my github so i was having problem
 * I got help from tony
 * Used git init created a repository
+* Added ssh keys
