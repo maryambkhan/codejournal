@@ -25,3 +25,6 @@ Goal: working on webpage
 * Used git init created a repository
 * Added ssh keys
 ## jan 17,2022
+Goal: working on agile ux breakdown
+* Looking for mobile app
+
