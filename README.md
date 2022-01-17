@@ -36,7 +36,9 @@ Goal: working on agile ux breakdown
 * I am going to write about `wallmart`
 * I have created a rough sketch of my user story on paper
 * Now I am going to add it to my repo `dsgn270-a1` 
-* I just set `##H heading` and git add . ,git commit -m"" and git push as always no changes becouse i was not at right file 
+* I just set `##H heading` and git add . ,git commit -m"" and git push as always no changes becouse i was not at right file.
+*  I just finished writing `user story` and `userflow`.
+* I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists ]
 
 Assessment:
 
