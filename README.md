@@ -24,3 +24,4 @@ Goal: working on webpage
 * I got help from tony
 * Used git init created a repository
 * Added ssh keys
+## jan 17,2022
