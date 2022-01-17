@@ -27,4 +27,9 @@ Goal: working on webpage
 ## jan 17,2022
 Goal: working on agile ux breakdown
 * Looking for mobile app
+* Created a new repo name `dsgn270-a1` on GH
+* Cloned the repo to my local directory ->`git clone` https://github.com/maryambkhan/dsgn270-a1.git
+* Added README.md file `git add .`
+* Still thinking of good scenario to write user story
+
 
