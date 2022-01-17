@@ -31,5 +31,9 @@ Goal: working on agile ux breakdown
 * Cloned the repo to my local directory ->`git clone` https://github.com/maryambkhan/dsgn270-a1.git
 * Added README.md file `git add .`
 * Still thinking of good scenario to write user story
+* I just figured out my user story
+* I am going to write about `wallmart`
+* I have created a rough sketch of my user story on paper
+* Now I am going to add `git add .`it to my repo `dsgn270-a1` 
 
 
