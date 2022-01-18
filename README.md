@@ -40,6 +40,8 @@ Goal: working on agile ux breakdown
 *  I just finished writing `user story` and `userflow`.
 * I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists ]
 ![user_story](images/dsgn.png)
+* I was looking for solution how to add picture in markdown
+i found this [https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown ] worked for me.
 
 
 Assessment:
