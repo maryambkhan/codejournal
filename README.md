@@ -46,6 +46,9 @@ i found this [https://stackoverflow.com/questions/41604263/how-do-i-display-loca
 Goal:WireFrame
 
 * Started working on wireframe.
+* Finished with rough idea of wireframe 
+    * Have to draw fine one
+    * Have to edit in figma 
 
 
 Assessment:
