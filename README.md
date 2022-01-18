@@ -51,15 +51,24 @@ Goal:WireFrame
     * Have to edit in figma 
 
 
-Assessment:
+**Self-Assessment:**
 
-* I have noticed i always forget to save code in vs
-or i am always in wrong directory trying to `git add .` stuff
-* I have noticed very positive improvement.
-* My first day of class was not good at all.
-* So far i am doing good i am not behind at anything.
-* I understand Git.
-* Just one thing always troubles me is reading .I am so bad at reading.
+*  My first day of class was not good at all.
+     * I had no expectations from my self.
+     * I was stressed.
+*  Now I am doing good. 
+     * I am not behaind at anything.  
+     * I understand git.
+*  My goal is that at the end of the day i have practiced enough what i have learned.
+*  I have problem reading i cant concentrate. I want to over come it and spare an hour daily.
+*  I am assessing my self on the work i have done past week include ( labs,assignment,extra excersise).
+
+
+
+
+
+
+
 
 
 
