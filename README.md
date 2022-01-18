@@ -49,7 +49,7 @@ Goal:WireFrame
 * Finished with rough idea of wireframe 
     * Have to draw fine one
     * Have to edit in figma 
-* This is what i have done so far:  ![wireframe](Images/wireframe.png)
+* This is what i have done so far:![wire_frame](Images/wireframe.png)
 
 
 **Self-Assessment:**
