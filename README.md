@@ -43,6 +43,10 @@ Goal: working on agile ux breakdown
 * I was looking for solution how to add picture in markdown
 i found this [https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown ] worked for me.
 
+Goal:WireFrame
+
+* Started working on wireframe.
+
 
 Assessment:
 
