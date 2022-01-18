@@ -40,10 +40,17 @@ Goal: working on agile ux breakdown
 *  I just finished writing `user story` and `userflow`.
 * I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists ]
 
+
 Assessment:
 
 * I have noticed i always forget to save code in vs
 or i am always in wrong directory trying to `git add .` stuff
+* I have noticed very positive improvement.
+* My first day of class was not good at all.
+* So far i am doing good i am not behind at anything.
+* I understand Git.
+* Just one thing always troubles me is reading .I am so bad at reading.
+
 
 
 
