@@ -1,7 +1,7 @@
 # codejournal
 this is simple journal.
 
-## jan 12,2022
+## Jan 12,2022
 Goal: write a code journal
 * First try to write a journal. looking good.I created a repo named:codejournal and added file README.md by git add . I was not able to copy link to my terminal. I asked for help from tony. Then i made some changes init checked my status  using git status and then i pushed it to github by Git push.
 
@@ -24,7 +24,7 @@ Goal: working on webpage
 * I got help from tony
 * Used git init created a repository
 * Added ssh keys
-## jan 17/2022-20/2022
+## Jan 17/2022-20/2022
 Goal: working on agile ux breakdown
 
 * Looking for mobile app.
@@ -36,7 +36,7 @@ Goal: working on agile ux breakdown
 * I am going to write about `wallmart`
 * I have created a rough sketch of my user story on paper
 * Now I am going to add it to my repo `dsgn270-a1` 
-* I just set `##H heading` and git add . ,git commit -m"" and git push as always no changes becouse i was not at right file.
+* I just set `##H heading` and git add . ,git commit -m"" and git push. As always no changes becouse i was not in right file.
 *  I just finished writing `user story` and `userflow`.
 * I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists ]
 ![user_story](images/dsgn.png)
@@ -51,8 +51,8 @@ Goal:WireFrame
     * Have to edit in figma 
 * This is what i have done so far: ![wire_frame](images/wireframe.png)
 
-* In lab time played with some `hsl` color and `font` style.
-  * Used some `hsl` color from: https://coolors.co .
+*  Today in lab time played with some `hsl` color and `font` style.
+*  Used some `hsl` color from: https://coolors.co .
 
 
 **Self-Assessment:**
@@ -66,6 +66,8 @@ Goal:WireFrame
 *  My goal is that at the end of the day i have practiced enough what i have learned.
 *  I have problem reading i cant concentrate. I want to over come it and spare an hour daily.
 *  I am assessing my self on the work i have done past week include ( labs,assignment,extra excersise).
+*  I liked the self-assessment part.
+     * I think i am going to do this on weekly base.
 
 
 
