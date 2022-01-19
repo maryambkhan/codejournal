@@ -51,6 +51,9 @@ Goal:WireFrame
     * Have to edit in figma 
 * This is what i have done so far: ![wire_frame](images/wireframe.png)
 
+* In lab time played with some `hsl` color and `font` style.
+  * Used some `hsl` color from: https://coolors.co .
+
 
 **Self-Assessment:**
 
