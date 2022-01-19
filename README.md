@@ -51,8 +51,6 @@ Goal:WireFrame
     * Have to edit in figma 
 * This is what i have done so far: ![wire_frame](images/wireframe.png)
 
-*  Today in lab time played with some `hsl` color and `font` style.
-*  Used some `hsl` color from: https://coolors.co .
 
 
 **Self-Assessment:**
@@ -68,6 +66,11 @@ Goal:WireFrame
 *  I am assessing my self on the work i have done past week include ( labs,assignment,extra excersise).
 *  I liked the self-assessment part.
      * I think i am going to do this on weekly base.
+
+*  Today in lab time played with some `hsl` color and `font` style.
+*  Used some `hsl` color from: https://coolors.co .
+* Just finished my assignment `dsgn270`.
+* Good day today.
 
 
 
