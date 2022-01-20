@@ -76,6 +76,21 @@ Goal:WireFrame
 
 Goal: Working on HTML and CSS
 
+* We practiced working on `HTML` and `css`.
+* It went fine eccept i was not able to see changes becouse i needed to confirm my email.
+* Today in lab time  me and Stephan worked on `wiki article`.
+   * We choose an article from `lord of the rings`.
+   * Put some paragraph in `html` and headings and applied some `css` on it.
+* I had some trouble understanding new syntax.
+   * I know some old fashiond html.Its confusing sometime.
+  *  But after some practicing will get use to it.
+* Well at the end of lab time we were done with our assignment 
+* Looked nice .
+* Link to my work: https://codepen.io/maryambkhan/pen/zYEVoOE
+* `<article>` i did not uderstood this but ashlyn helped us kinda understand it.
+* I found article about it gonna read later :https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+* I just `commited` this update and `pushed` it to github guess whata nothing happend.
+* Becouse i forgot to save.Allways !!!!!
 
 
 
