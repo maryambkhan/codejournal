@@ -72,7 +72,7 @@ Goal:WireFrame
 * Just finished my assignment `dsgn270`.
 * Good day today.
 
-## **Jan/21/2022**
+## **Jan/20-21/2022**
 
 Goal: Working on HTML and CSS
 
