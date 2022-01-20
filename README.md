@@ -86,11 +86,16 @@ Goal: Working on HTML and CSS
   *  But after some practicing will get use to it.
 * Well at the end of lab time we were done with our assignment 
 * Looked nice .
-* Link to my work: https://codepen.io/maryambkhan/pen/zYEVoOE
-* `<article>` i did not uderstood this but ashlyn helped us kinda understand it.
-* I found article about it gonna read later :https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
-* I just `commited` this update and `pushed` it to github guess whata nothing happend.
+* Link to my work: [https://codepen.io/maryambkhan/pen/zYEVoOE]
+* `<article>`tag, i did not uderstood this but ashlyn helped us.
+* Kind of understand it. 
+* But I found an article about it gonna read later :[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article]
+* I just `commited` this update and `pushed` it to github guess what nothing happend.
 * Becouse i forgot to save.Allways !!!!!
+* Wanted to practice more and apply`<article>`tag in codepen, so decided to work some more on `lord of the rings` pen.
+  * Got some help from here too:[https://www.w3schools.com/tags/tag_article.asp]
+  * Like the result
+   [https://codepen.io/maryambkhan/full/zYEVoOE]
 
 
 
