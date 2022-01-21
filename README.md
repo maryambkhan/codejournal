@@ -96,7 +96,7 @@ Goal: Working on HTML and CSS
   * Got some help from here too:[html,css](https://www.w3schools.com/tags/tag_article.asp)
   * Like the result
    [wiki assignment](https://codepen.io/maryambkhan/full/zYEVoOE)
-
+* Learn responsive web design.
 
 
 
