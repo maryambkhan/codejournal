@@ -68,7 +68,7 @@ Goal:WireFrame
      * I think i am going to do this on weekly base.
 
 *  Today in lab time played with some `hsl` color and `font` style.
-*  Used some `hsl` color from:[hsl-color] (https://coolors.co) .
+*  Used some `hsl` color from:[hsl-color](https://coolors.co) .
 * Just finished my assignment `dsgn270`.
 * Good day today.
 
