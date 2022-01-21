@@ -29,7 +29,7 @@ Goal: working on agile ux breakdown
 
 * Looking for mobile app.
    * Created a new repo name `dsgn270-a1` on GH
-   * Cloned the repo to my local directory ->`git clone` https://github.com/maryambkhan/dsgn270-a1.git
+   * Cloned the repo to my local directory ->`git clone` [dsgn--a1](https://github.com/maryambkhan/dsgn270-a1.git)
    * Added README.md file `git add .`
 * Still thinking of good scenario to write user story
 * I just figured out my user story
@@ -38,10 +38,10 @@ Goal: working on agile ux breakdown
 * Now I am going to add it to my repo `dsgn270-a1` 
 * I just set `##H heading` and git add . ,git commit -m"" and git push. As always no changes becouse i was not in right file.
 *  I just finished writing `user story` and `userflow`.
-* I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists ]
+* I had some trouble with formiting my markdown but i figured it out finally[markdown cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists )
 ![user_story](images/dsgn.png)
 * I was looking for solution how to add picture in markdown
-i found this [https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown ] worked for me.
+i found this [image](https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown )worked for me.
 
 Goal:WireFrame
 
@@ -68,7 +68,7 @@ Goal:WireFrame
      * I think i am going to do this on weekly base.
 
 *  Today in lab time played with some `hsl` color and `font` style.
-*  Used some `hsl` color from: https://coolors.co .
+*  Used some `hsl` color from:[hsl-color] (https://coolors.co) .
 * Just finished my assignment `dsgn270`.
 * Good day today.
 
@@ -86,16 +86,16 @@ Goal: Working on HTML and CSS
   *  But after some practicing will get use to it.
 * Well at the end of lab time we were done with our assignment 
 * Looked nice .
-* Link to my work: [https://codepen.io/maryambkhan/pen/zYEVoOE]
+* Link to my work: [codepen](https://codepen.io/maryambkhan/pen/zYEVoOE)
 * `<article>`tag, i did not uderstood this but ashlyn helped us.
 * Kind of understand it. 
-* But I found an article about it gonna read later :[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article]
+* But I found an article about it gonna read later :[Html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 * I just `commited` this update and `pushed` it to github guess what nothing happend.
 * Becouse i forgot to save.Allways !!!!!
 * Wanted to practice more and apply`<article>`tag in codepen, so decided to work some more on `lord of the rings` pen.
-  * Got some help from here too:[https://www.w3schools.com/tags/tag_article.asp]
+  * Got some help from here too:[html,css](https://www.w3schools.com/tags/tag_article.asp)
   * Like the result
-   [https://codepen.io/maryambkhan/full/zYEVoOE]
+   [wiki assignment](https://codepen.io/maryambkhan/full/zYEVoOE)
 
 
 
