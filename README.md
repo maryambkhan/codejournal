@@ -114,6 +114,8 @@ Goal: Working on HTML and CSS
 *  Used some help from `mozilla.org` and `w3school`.
 *  I am still having problem with aligning the nav elements.
 *  [nav bar](https://codepen.io/maryambkhan/pen/VwMoxZK?editors=0110)
+*  Had some issues when i was trying to push code to GH but figuerd it out was not 
+   using right process.
 *  Nav elements does not have purpose yet.
 *  Have to do some designing and give it a purpose.
 
