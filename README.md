@@ -98,7 +98,8 @@ Goal: Working on HTML and CSS
    [wiki assignment](https://codepen.io/maryambkhan/full/zYEVoOE)
 * Learn responsive web design.
 
- ## Goal: Nav bar
+ ## Jan/24/2022
+ Goal: Nav bar
 * created a new codepen named it nav-bar.
 * Created a list .
    <nav>
