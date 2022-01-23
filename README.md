@@ -98,6 +98,24 @@ Goal: Working on HTML and CSS
    [wiki assignment](https://codepen.io/maryambkhan/full/zYEVoOE)
 * Learn responsive web design.
 
+ ## Goal: Nav bar
+* created a new codepen named it nav-bar.
+* Created a list .
+   <nav>
+    <ul class="nav-link">
+        <li>Home</li>
+        <li>Work</li>
+        <li >Contact</li>
+        <li>About</li>
+    </ul>
+   </nav>
+*  Did some css style.
+*  Used some help from `mozilla.org` and `w3school`.
+*  I am still having problem with aligning the nav elements.
+*  [nav bar](https://codepen.io/maryambkhan/pen/VwMoxZK?editors=0110)
+*  Nav elements does not have purpose yet.
+*  Have to do some designing and give it a purpose.
+
 
 
 
