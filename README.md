@@ -120,16 +120,19 @@ Goal: Working on HTML and CSS
 *  Have to do some designing and give it a purpose.
 *  After so many try i can not figuerd it out to fix it.
 *  I started looking for solution i found something here:[w3school](https://www.w3schools.com)
-     <nav>
+   <nav>
      <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Work</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-  </nav>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Work</a></li>
+      <li><a href="#">Contact</a></li>
+     </ul>
+   </nav>
 *  It works and i understand it too but still want to find the solution for other way i was doing it.
-*  I think i am gonna ask ashlayn tomorow.
+*  I think i am gonna ask for help.
+*  Fixed the nav bar yea!
+    `flex-wrap:wrap;`
+
 
 
 
