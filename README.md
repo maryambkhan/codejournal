@@ -149,6 +149,17 @@ Goal: Working on HTML and CSS
     * Grid Design:![Grid](images/grid.png)
     * Result : ![GridCSS](images/gridcss.png)
     * Still need practice
+
+    Goal : Assignment2
+
+    * Have started working on it
+    * Going to add hero section image
+    * Nav bar mobile menu
+    * Least 3 cards
+    * Services column
+    * Already added nav bar and hero section image
+    * Had problem with hero section image becouse of size not sure if i am going to keep it 
+    * Working on card now
      
  
 
