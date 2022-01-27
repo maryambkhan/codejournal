@@ -143,6 +143,17 @@ Goal: Working on HTML and CSS
     * No troubles with code
     * Took me forever to find  an image
 
+    Goal : Grid CSS
+
+    * Had trouble understanding at first
+    * Grid Design:![Grid](images/grid.png)
+    * Result : [GridCSS](images/gridcss.png)
+    * Still need practice
+     
+ 
+
+    
+
     
     
 
