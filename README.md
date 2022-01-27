@@ -147,7 +147,7 @@ Goal: Working on HTML and CSS
 
     * Had trouble understanding at first
     * Grid Design:![Grid](images/grid.png)
-    * Result : [GridCSS](images/gridcss.png)
+    * Result : ![GridCSS](images/gridcss.png)
     * Still need practice
      
  
