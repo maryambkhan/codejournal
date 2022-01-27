@@ -133,6 +133,19 @@ Goal: Working on HTML and CSS
 *  Fixed the nav bar yea!
     `flex-wrap:wrap;`
 
+    ## Jan 27/2022-28/2022
+
+    Goal : 404 Error Page
+    
+    * Add background image
+    * write text on it
+    * Found nice image to add
+    * No troubles with code
+    * Took me forever to find  an image
+
+    
+    
+
 
 
 
