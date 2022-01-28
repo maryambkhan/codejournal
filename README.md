@@ -150,6 +150,20 @@ Goal: Working on HTML and CSS
     * Result : ![GridCSS](images/gridcss.png)
     * Still need practice
 
+    Goal : Working on form
+
+    * Photography page
+    * Checkbox
+    * Formfield :
+      *  first  name
+      *  last name
+      *   email
+      *   phone
+      *  feedback
+    * Drop down options(wedding,party,potraite)
+    * Done with form need some semantics to do.
+
+
     Goal : Assignment2
 
     * Have started working on it
