@@ -162,6 +162,8 @@ Goal: Working on HTML and CSS
       *  feedback
     * Drop down options(wedding,party,potraite)
     * Done with form need some semantics to do.
+    * Can't fix the field in right position
+    ![Form](images/form.png)
 
 
     Goal : Assignment2
