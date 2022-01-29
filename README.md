@@ -176,6 +176,9 @@ Goal: Working on HTML and CSS
     * Already added nav bar and hero section image
     * Had problem with hero section image becouse of size not sure if i am going to keep it 
     * Working on card now
+    * Finished with card had trouble with aligning cards in row used grid css
+    * I can't seem to add any more thing in my page i have no idea y?
+    * I want to add text but no space annoying
      
  
 
