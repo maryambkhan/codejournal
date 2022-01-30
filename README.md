@@ -179,6 +179,7 @@ Goal: Working on HTML and CSS
     * Finished with card had trouble with aligning cards in row used grid css
     * I can't seem to add any more thing in my page i have no idea y?
     * I want to add text but no space annoying
+    * Figured that out but can't seem to find why my cards are overflowing
      
  
 
