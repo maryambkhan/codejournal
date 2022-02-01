@@ -181,6 +181,8 @@ Goal: Working on HTML and CSS
     * I want to add text but no space annoying
     * Figured that out but can't seem to find why my cards are overflowing
      
+     ## Feb 1/2022
+
    Goal : Assignment3
 
    * Plan: ![Form](images/plan.png)
