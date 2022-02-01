@@ -186,6 +186,7 @@ Goal: Working on HTML and CSS
    * Plan: ![Form](images/plan.png)
    * I have aligned images as i planed it was little tricky but did it
    * Used lots of div  and used this method: ![Form](images/grid1.png)
+   * Next step to add social media icons and navigation bar and make it responsive page
  
 
     
