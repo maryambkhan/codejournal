@@ -181,6 +181,11 @@ Goal: Working on HTML and CSS
     * I want to add text but no space annoying
     * Figured that out but can't seem to find why my cards are overflowing
      
+   Goal : Assignment3
+
+   * Plan: ![Form](images/plan.png)
+   * I have aligned images as i planed it was little tricky but did it
+   * Used lots of div  and used this method: ![Form](images/grid1.png)
  
 
     
