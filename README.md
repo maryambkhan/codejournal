@@ -189,6 +189,12 @@ Goal: Working on HTML and CSS
    * I have aligned images as i planed it was little tricky but did it
    * Used lots of div  and used this method: ![Form](images/grid1.png)
    * Next step to add social media icons and navigation bar and make it responsive page
+   * Had to change this method too becouse i delared images as fixed in rows and columns 
+      so was having problem making page responsive.
+   * My page is looking good eccept:
+   * Had to make nav bar responsive without @media had some problems with container but figured it out now stuck with logo overlap
+   * One more problem icons i did it before don't know y not working this time have to check some sources out my mostly sources are mdn, ww3school and kevinpowell youtube.
+
  
 
     
