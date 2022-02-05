@@ -181,7 +181,7 @@ Goal: Working on HTML and CSS
     * I want to add text but no space annoying
     * Figured that out but can't seem to find why my cards are overflowing
      
-     ## Feb 1/2022
+     ## Feb 1/2022-4/2022
 
    Goal : Assignment3
 
@@ -195,6 +195,11 @@ Goal: Working on HTML and CSS
    * Had to make nav bar responsive without @media had some problems with container but figured it out now stuck with logo overlap
    * One more problem icons i did it before don't know y not working this time have to check some sources out my mostly sources are mdn, ww3school and kevinpowell youtube.
 
+   Goal : Assignment4
+
+   * Created repo named cpnt260-a4
+   * Added files and folders
+   * created nav bar
  
 
     
