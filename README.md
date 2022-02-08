@@ -201,6 +201,13 @@ Goal: Working on HTML and CSS
    * Added files and folders
    * created nav bar
  
+    ## Feb 7/2022
+
+    ## Plugin Away
+
+    * Downloded `fullpage.js` 
+    * Extrected the zip file in my workspace
+    * Next step is  for demo
 
     
 
