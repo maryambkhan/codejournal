@@ -209,7 +209,7 @@ Goal: Working on HTML and CSS
     * Extrected the zip file in my workspace
     * Next step is  for demo
 
-    ## Mar 15/2022
+    ## Mar 15/2022- Mar 20/2022
 
     ### Logo Design
 
@@ -239,6 +239,14 @@ Goal: Working on HTML and CSS
 - When i was done with logo design then css styling was real simple
 - Well great learning experience once i understood tools and little things it was preaty good to work on
 - I am still having problem with image part it is not shrinking need check that out
+
+### Figma Mockup
+
+- I am working on `sephora's` website for mockup. I choose there website becouse they have 
+   lots going on on there site it would be good for prototype assignment.
+- I created a library where i set colors and fonts, I found colors from there site and set them as style
+   but i couldint fint any font they are using so i just found somthing similar.
+- Now i am going to start working on designing the site.
 
     
 
