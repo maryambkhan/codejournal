@@ -247,7 +247,7 @@ Goal: Working on HTML and CSS
 - I created a library where i set colors and fonts, I found colors from there site and set them as style
    but i couldint fint any font they are using so i just found somthing similar.
 
-    ![Libray style](assets/images/library.PNG)
+    ![Libray style](images/library.PNG)
 
 - Now i am going to start working on designing the site.
 - I have completed 2 nav bars (local and global) and i have put hero section image.
@@ -257,7 +257,7 @@ Goal: Working on HTML and CSS
   when i scrolled up globel navigation was broken took me some time to fix it.
 - I am almost done with footer and then my assignment will be done if no problem.
 
-     ![Sephora Site Mockup](assets/images/work-in-process.PNG)
+     ![Sephora Site Mockup](images/work-in-process.PNG)
 
     
     
