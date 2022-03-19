@@ -285,9 +285,11 @@ Goal: Working on HTML and CSS
 - I wanted to go for simple design and make the site easy and accessable for user i tried to use more color
   to make site colorfull as it is a cosmetics website. I think did not overdo with the colors
 - Mostly i wanted to use as much as  different prototype i could use
-![Libray style](assets/images/components.PNG)
+![Libray style](images/components.PNG)
 - Creating nav bar was so hard i had to do same thing over and over so many time
   i wish i can find something easy then this
+- It was real nice experience i liked it i learnend so much stuff mostly 
+- How to start creating a website why we need to design a site.
     
     
 
