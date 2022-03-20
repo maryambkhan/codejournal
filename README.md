@@ -209,9 +209,9 @@ Goal: Working on HTML and CSS
     * Extrected the zip file in my workspace
     * Next step is  for demo
 
-    ## Mar 15/2022- Mar 20/2022
+  ## Mar 15/2022- Mar 20/2022
 
-    ### Logo Design
+  ### Logo Design
 
      - I wanted crate a logo for photography website so this is what i colleted:
        ![MoodBoard](images/mood-board.PNG)
