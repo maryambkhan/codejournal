@@ -291,7 +291,20 @@ Goal: Working on HTML and CSS
 - It was real nice experience i liked it i learnend so much stuff mostly 
 - How to start creating a website why we need to design a site.
     
-    
+
+### Sources
+
+- [Nuxt3](https://v3.nuxtjs.org/getting-started/bridge)
+- [Nuxt2](https://nuxtjs.org/)
+- [Storyblok](https://www.storyblok.com/mp/storyblok-meets-vue3-nuxt3)
+- [Tailwindcss](https://tailwindcss.com/docs/installation)
+- [Tailwindcss Nuxtjs](https://tailwindcss.nuxtjs.org/tailwind/config)
+- [Vue](https://vuejs.org/)
+- [nuxt3 guide](https://v3.nuxtjs.org/docs/directory-structure/components/)
+- [Eslinter](https://eslint.vuejs.org/user-guide/#usage)
+- [Svgomg](https://jakearchibald.github.io/svgomg/)
+- [Netlify](https://app.netlify.com/teams/maryambkhan/overview)
+- [Gist](https://gist.github.com/lilyx13/59068feba277c73cc2a4be7a15ec6f59)
 
 
 
